@@ -1,4 +1,4 @@
-# MAI-OS LR1
+# MAI-OS LR3
 # made by Egor Drobyshev
 # Вариант 8.
 
