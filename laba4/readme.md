@@ -1,3 +1,5 @@
 # MAI-OS LR4
 # made by Egor Drobyshev
-# Вариант 30.
+# Вариант 32
+
+[task](./laba4/OSLab4.pdf)
